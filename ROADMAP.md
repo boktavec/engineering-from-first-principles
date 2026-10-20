@@ -1,13 +1,11 @@
 # Roadmap
 
-This is a flexible guide to the areas I intend to study. Specific weeks and milestones will be added when I reach them.
+Progress is based on demonstrated skill, not dates. The [curriculum](CURRICULUM.md) has the detailed plan; only the first section is authored so far.
 
-| Area | Status |
-| --- | --- |
-| C programming | Current focus |
-| Data structures and algorithms | Planned |
-| Computer architecture | Planned |
-| Systems programming | Planned |
-| Go | Planned |
+| Stage | Focus | Material |
+| --- | --- | --- |
+| 01 | C foundations and problem solving | [Section 01](sections/01-c-foundations/README.md) |
+| 02–06 | Memory, data structures, algorithms, and C systems | Planned in the [curriculum](CURRICULUM.md) |
+| Go track | Go and systems engineering | Planned in the [curriculum](CURRICULUM.md) |
 
-The [weekly roadmap](README.md#weekly-roadmap) links to the work that exists today.
+Readiness and evidence belong in the [progress tracker](docs/PROGRESS.md).
