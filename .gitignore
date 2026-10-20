@@ -1,0 +1,29 @@
+# C build output
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.dSYM/
+a.out
+
+# Build and coverage directories
+build/
+dist/
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
