@@ -1,5 +1,5 @@
 # Resources
 
-References I use during the learning journey will be recorded here with a short note on why each is useful.
+- [Section 01 reading and tool references](sections/01-c-foundations/RESOURCES.md)
 
-No resources have been added yet.
+Add resources for later sections when those sections are created.
